@@ -1,1 +1,4 @@
-print ""
+int(x,y)
+
+print("The sum of", x, "and", y, "is:", x + y)
+
